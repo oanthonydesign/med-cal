@@ -1,0 +1,5 @@
+{
+  "name": "MedScheduler Pro",
+  "description": "A complete medical appointment system with automated 48h confirmation rules, doctor agenda management, and patient self-scheduling.",
+  "requestFramePermissions": []
+}
